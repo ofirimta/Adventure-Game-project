@@ -1,0 +1,9 @@
+Bonus Request
+
+Items Swaps - collect new item while holding one, dispose the one we hold, and takes the new one.
+Level 3 - complex room, requires thinking about details - understand which wall can help them pass the level.
+ requires collaborate between both players
+(+) Life Gift: Collecting this item adds 1 life point to the player who collected it.
+Riddle Managing - Randomly selects a riddle when the pool is empty to ensure continuous gameplay.
+Legend Border Fix - Prevents the UI Legend from cutting off the screen borders by enforcing wall rendering.
+Legend Handeling - If a level file contains multiple 'L' markers, the game recognizes only the first 'L' found to determine the Legend's position. Any subsequent 'L' characters are ignored.
